@@ -132,7 +132,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
- I thank you the Designer of the page [Cindy Shine](https://www.behance.net/adagio07) Cindy Shin the author of the original design
+ I give a credit for  Designer of the page [Cindy Shine](https://www.behance.net/adagio07) Cindy Shin the author of the original design
  
 
 I would like to thank microverse  🙂
