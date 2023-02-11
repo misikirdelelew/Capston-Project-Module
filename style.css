@@ -117,11 +117,12 @@ body {
 }
 
 .featured-photo-holder {
-  object-fit: contain;
+  /* object-fit: contain; */
+  position: relative;
 }
 
 .featured-photo-holder img {
-  width: 100%;
+  vertical-align: middle;
 }
 
 .featured-text-holder {
@@ -141,7 +142,8 @@ body {
 
 .featured-info {
   color: #ec5242;
-  font-family: 'Lato', sans-serif;
+  font-style: italic;
+  font-weight: 400;
 }
 
 .featured-details {
@@ -258,6 +260,13 @@ body {
 
 .footer-saarc {
   display: none;
+}
+
+.overlay-one {
+  position: relative;
+  left: 20px;
+  top: -79px;
+  height: 90px;
 }
 
 @media screen and (min-width: 768px) {

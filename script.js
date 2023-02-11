@@ -48,7 +48,8 @@ eotc.forEach((element, i) => {
   const spCard = `
     <div class="grid-two-parts">
         <div class="featured-photo-holder">
-           <img src="${eotc[i].spimg}">
+        <img src="./assets/images/speaker-back.png" alt="Teachers-back">
+           <img src="${eotc[i].spimg}" class="overlay-one">
         </div>
         <div class="featured-text-holder">
             <h3 class="featured-name">${eotc[i].Pname}</h3>
