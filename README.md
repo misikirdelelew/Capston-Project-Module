@@ -29,7 +29,7 @@
 # 📖 Capstone Project <a name="about-project"></a>
 
 >  This is a Capstone project for module one  is developed with microverse requirnment.
-   - [Video Description](https://www.loom.com/share/be865d6c2556447f8c1d1b0bdbf4c94b)
+   - [Video Description about the capston](https://www.loom.com/share/be865d6c2556447f8c1d1b0bdbf4c94b)
 
 **Capstone Project** is a...
 
