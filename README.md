@@ -26,11 +26,12 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 portfolio-setup-and-mobile-first <a name="about-project"></a>
+# 📖 Capstone Project <a name="about-project"></a>
 
 >  This is a Capstone project for module one  is developed with microverse requirnment.
+   - [Video Description about the capston](https://www.loom.com/share/be865d6c2556447f8c1d1b0bdbf4c94b)
 
-**portfolio-setup-and-mobile-first** is a...
+**Capstone Project** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -67,7 +68,7 @@
 > Anyone who wants to work on this project just simple clone to your local machine. this project has been acessed online just for learning propose.
 
 To get a local copy up and running, follow these steps.
-Go to git https://github.com/MishDM/My-Portfolio  and clone My-portfolio repository to your local machine and run the index.html
+Go to git https://github.com/MishDM/Capston-Project-Module  and clone Capston-Project-Module repository to your local machine and run the index.html
 
 ### Prerequisites
 
@@ -92,7 +93,7 @@ Clone this repository to your desired folder:
 
 > Mention all of the collaborators of this project.
 
-👤 **MMisikir Delelew mulat**
+👤 ****
 
 - GitHub: [@github/MishMD](https://github.com/MishMD)
 - Twitter: [@misikirdelelw](https://twitter.com/misikir.delelew)
@@ -132,7 +133,8 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-<!-- > Give credit to everyone who inspired your codebase. -->
+ I give a credit for  Designer of the page [Cindy Shine](https://www.behance.net/adagio07) Cindy Shin the author of the original design
+ 
 
 I would like to thank microverse  🙂
 <!-- I would like to thank... -->
