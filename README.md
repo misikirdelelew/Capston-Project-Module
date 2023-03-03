@@ -53,7 +53,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://mishdm.github.io/Capston-Project-Module/)
+- [Live Demo Link](https://misikirdelelew.github.io/Capston-Project-Module/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
